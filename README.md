@@ -5,7 +5,7 @@
 
 ## 群组织
 
-- github组织：https://github.com/FeNature
+github组织：https://github.com/FeNature
 
 
 ## 小程序
